@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header, footer{
+    background: rgb(155, 102, 230);
+    height: 60px;
+}
+
+article{
+    font-family: sans-serif;
+    color: rgb(43, 36, 56);
+    background: rgb(243, 231, 255);
+}
